@@ -2,12 +2,16 @@
 body{
 	padding-top: 60px;
 }
-@import 'bootstrap-responsive';
+
+.navbar {
+  background-color: #ffffff;
+  border-color: #ffffff;
+}
 
 .footer{
     margin-top: 50px;
-    color: $grayLight;
+    color: #bebebe;
     a{
-        color: $gray;
+    	color: #d3d3d3;
     }
 }
